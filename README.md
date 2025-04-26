@@ -13,7 +13,7 @@ This project builds a Vision-Language Model through a multi-stage approach:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/vision-language-model-training.git
+git clone https://github.com/kn0wthing/vision-language-model-training.git
 cd vision-language-model-training
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
