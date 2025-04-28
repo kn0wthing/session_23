@@ -82,9 +82,9 @@ Below are screenshots from the training process:
 
 ### Phi-2 VLM Training
 
-<img src="assets/phi_vlm_train_1.png" width="800" alt="Phi-2 VLM Training Start">
-<img src="assets/phi_vlm_train_2.png" width="800" alt="Phi-2 VLM Training Progress">
-<img src="assets/phi_vlm_train_3.png" width="800" alt="Phi-2 VLM Training Completion">
+<img src="imgs/Screenshot 2025-04-26 at 1.26.27 AM.png" width="800" alt="Phi-2 VLM Training Start">
+<img src="imgs/Screenshot 2025-04-26 at 1.27.27 AM.png" width="800" alt="Phi-2 VLM Training Progress">
+<img src="imgs/Screenshot 2025-04-26 at 1.28.00 AM.png" width="800" alt="Phi-2 VLM Training Completion">
 
 
 
